@@ -317,7 +317,6 @@ HINT - you may need to study tomorrow's content on arrays
 HINT - try looking up the .includes() method
 */
 
-str = "The Quick Brown Fox Jumps Over The Lazy Dog"
 function vowelCounter(string) {
   const vowels = ["a", "e", "i", "o", "u"]
   let vowelCount = 0
@@ -331,7 +330,7 @@ function vowelCounter(string) {
   }
   return vowelCount
 }
-console.log(vowelCounter(str))
+
 
 
 /*🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑 Please do not modify anything below this line 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑*/
